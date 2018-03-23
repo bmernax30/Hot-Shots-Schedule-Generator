@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1514950584 source:c:\users\brendan\desktop\hotshots\schedulemaker_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<sys/time.h>
+	<string.h>
+
+1515534604 source:c:\users\brendan_merna\desktop\hotshots\schedulemaker_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<sys/time.h>
+	<string.h>
+
+1519250229 source:c:\users\brendan_merna\desktop\hotshots\schedulemaker_coed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<sys/time.h>
+	<string.h>
+
+1520467580 source:c:\users\brendan\desktop\schedulemaker_coed_22118\schedulemaker_coed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<sys/time.h>
+	<string.h>
+
